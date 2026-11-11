@@ -16,5 +16,5 @@ export FW_CONFIG_FILE=/scratch/rdu230/Comp_FW_Workflow/config/FW_config.yaml
 
 cd /scratch/rdu230/Comp_FW_Workflow/runfiles
 
-rlaunch singleshot
+rlaunch rapidfire
 
