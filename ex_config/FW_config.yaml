@@ -1,4 +1,4 @@
-ECHO_TEST: FW_config.yaml is loaded for d3tales, this file is (presumbly) located at d3tales/high_throughput/config/FW_config.yaml
+ECHO_TEST: FW_config.yaml is loaded for d3tales, this file is (presumbly) located at BASE_DIR/config/FW_config.yaml
 
 #ADD_USER_PACKAGES:
 #  -workflows.python
