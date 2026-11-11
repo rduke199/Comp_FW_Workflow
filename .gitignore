@@ -221,3 +221,4 @@ __marimo__/
 extracted_data/*
 runfiles/*
 config/
+FW.json
